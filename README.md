@@ -5,6 +5,7 @@
 
 ## 项目运行效果截图
 ![项目运行效果截图](TODO: zuoye.png)
+![zuoye](https://github.com/KauBuo/RGB_mixer_homework/assets/116176798/44011f98-4209-4db9-93c3-a9d8e7d09a16)
 
 ## 功能
 - 提供RGB三个通道的滑动条，用户可以通过调整滑动条来改变每个通道的偏移量，从而改变图像的颜色。
